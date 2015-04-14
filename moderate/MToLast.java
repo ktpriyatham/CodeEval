@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
+
 public class MToLast {
     public static void main (String[] args) throws IOException {
         File file = new File(args[0]);
